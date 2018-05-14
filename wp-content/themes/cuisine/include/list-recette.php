@@ -16,4 +16,4 @@
 
 <?php else: ?>
     <p>Aucun contenu à afficher</p>
-<?php endif; ?> 
+<?php endif; ?>
