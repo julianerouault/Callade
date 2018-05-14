@@ -8,5 +8,5 @@
 <body <?php body_class(); ?>>
 
 <header class="main-header">
-  <?php wp_nav_menu(['theme_location' => 'main-menu', 'container' => 'nav', 'container_class' => 'container']); ?>
+  <?php wp_nav_menu(['menu' => 'menu_callade', 'container' => 'nav', 'container_class' => 'container', 'menu_class' => 'menu_callade']); ?>
 </header>
